@@ -4,7 +4,7 @@ export default {
 		REGION: "YOUR_S3_UPLOADS_BUCKET_REGION",
 		BUCKET: "YOUR_S3_UPLOADS_BUCKET_NAME"
 	},*/
-	MAX_ATTACHMENT_SIZE: 5000000,	
+	MAX_ATTACHMENT_SIZE: 1000000,	
 	apiGateway: {
 		REGION: "us-east-1",
 		URL: "https://7f8p82nr44.execute-api.us-east-1.amazonaws.com/DEV"

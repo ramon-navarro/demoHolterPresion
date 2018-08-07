@@ -1,6 +1,7 @@
 .NewFile form {
-padding-bottom: 15px;
+padding-bottom: 10px;
 }
-.NewFile form textarea {
-height: 300px;font-size: 24px;
+
+.Panel{
+	max-height:400px;
 }
