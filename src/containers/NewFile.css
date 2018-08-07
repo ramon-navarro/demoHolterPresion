@@ -5,3 +5,11 @@ padding-bottom: 10px;
 .Panel{
 	max-height:400px;
 }
+
+.danger{
+	color:#FF0000;
+}
+
+.success{
+	color:#000000;
+}
